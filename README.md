@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ajitrawat.vercel.app/](https://ajitrawat.vercel.app/)
 
-<!-- 💬 Ask me about **Competitive Programming**--!>
+<!-- 💬 Ask me about **Competitive Programming** -->
 
 - 📫 How to reach me **ajeetrawat056@gmail.com**
 
